@@ -1,6 +1,5 @@
-## Hi there 👋
 <h2 left="center">Hi there, I'm George Anderson! 👋</h2>
-
+<p align="left">I'm a hands-on Full-Stack Developer </p>
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
