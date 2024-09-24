@@ -219,6 +219,10 @@
       <br>Firebase
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="65" height="65" />
       <br>Vercel
     </td>
@@ -232,6 +236,8 @@
     </td>
   </tr>
 </table>
+
+<br/>
 
 <h1 align="center">🌟 Other Tools </h1>
 <table align="center">
