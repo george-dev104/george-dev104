@@ -333,7 +333,7 @@
   </tr>
 </table>
 
-
+<img width=100% title="Coder Abhi." alt="RBrooks76" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
