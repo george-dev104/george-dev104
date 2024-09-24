@@ -13,7 +13,11 @@
 - ✨ Excellent in Back-End Development with JavaScript, TypeScript, PHP, C# and Python <br/>
 - 🌱 Engaging user-friendly, responsive User Interface with CSS, Bootstrap and Tailwind CSS <br/>
 
-# 🌟 Programming Languages
+<br/><br/><br/><br/><br/>
+
+
+
+<h1 align="center" size="46">🌟 Programming Languages </h1>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -44,7 +48,7 @@
   </tr>
 </table>
   
-# 💻 Frameworks & Libraries
+# 💻 Front-End Frameworks & Libraries
 <table>
   <tr>
     <td align="center" width="96">
@@ -52,16 +56,50 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="./assets/vue.svg" alt="icon" width="65" height="65" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
       <br>Redux
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
+      <br>Gatsby
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vuetify" alt="icon" width="65" height="65" />
+      <br>Vuetify
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
+      <br>Angular
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=svelte" alt="icon" width="65" height="65" />
+      <br>Svelte
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
       <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
@@ -83,9 +121,44 @@
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
+    
+  </tr>
+</table>
+
+# 💻 Back-End Frameworks & Libraries
+<table align="center">
+  <tr>
     <td align="center" width="96">
-        <img src="./assets/node.svg" alt="icon" width="65" height="65" />
-      <br>Node
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=next" alt="icon" width="65" height="65" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxt" alt="icon" width="65" height="65" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
+      <br>nestjs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
+      <br>dotnet
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
+      <br>Laravel
     </td>
   </tr>
 </table>
