@@ -143,6 +143,14 @@
       <br>dotnet
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=remix" alt="icon" width="65" height="65" />
+      <br>Remix
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
       <br>Django
     </td>
@@ -183,7 +191,7 @@
         <br>Redis
       </td>
       <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=Prisma" alt="icon" width="65" height="65" />
+          <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="65" height="65" />
         <br>Prisma
       </td>
   </tr>
@@ -194,7 +202,34 @@
 <h1 align="center">🌟 Hosting/Cloud Services </h1>
 <table align="center">
   <tr>
-    
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cloudflare" alt="icon" width="65" height="65" />
+      <br>Cloudflare
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="65" height="65" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" alt="icon" width="65" height="65" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" alt="icon" width="65" height="65" />
+      <br>Heroku
+    </td>
   </tr>
 </table>
 
@@ -202,12 +237,24 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gitlab" alt="icon" width="65" height="65" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bitbucket" alt="icon" width="65" height="65" />
+      <br>Bitbucket
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
@@ -217,10 +264,8 @@
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
       <br>Kuberbetes
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST API
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
       <br>Webpack
@@ -228,10 +273,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
       <br>Vite
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
@@ -242,24 +283,38 @@
       <br>Prettier
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=apollo" alt="icon" width="65" height="65" />
+      <br>Apollo
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
-      <br>Visual Studio Code
+      <br>VS Code
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />
-      <br>Visual Studio
+      <br>VS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="65" height="65" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" alt="icon" width="65" height="65" />
+      <br>Unity
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
       <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netifly" alt="icon" width="65" height="65" />
-      <br>Netifly
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="65" height="65" />
-      <br>Vercel
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="65" height="65" />
