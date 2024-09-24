@@ -13,11 +13,10 @@
 - ✨ Excellent in Back-End Development with JavaScript, TypeScript, PHP, C# and Python <br/>
 - 🌱 Engaging user-friendly, responsive User Interface with CSS, Bootstrap and Tailwind CSS <br/>
 
-<br/><br/><br/><br/><br/>
 
+<br/><br/><br/>
 
-
-<h1 align="center" size="46">🌟 Programming Languages </h1>
+<h1 align="center">🌟 Programming Languages </h1>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -45,35 +44,33 @@
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br><br>PHP
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
   </tr>
 </table>
-  
-# 💻 Front-End Frameworks & Libraries
-<table>
+
+<br/>
+
+<h1 align="center">🌟 Front-End </h1>
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
+        <img src="https://skillicons.dev/icons?i=next" alt="icon" width="65" height="65" />
+      <br>Next.js
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
-      <br>Gatsby
+        <img src="https://skillicons.dev/icons?i=nuxt" alt="icon" width="65" height="65" />
+      <br>Nuxt.js
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
       <br>Vue
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vuetify" alt="icon" width="65" height="65" />
-      <br>Vuetify
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
@@ -83,8 +80,36 @@
         <img src="https://skillicons.dev/icons?i=svelte" alt="icon" width="65" height="65" />
       <br>Svelte
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=electron" alt="icon" width="65" height="65" />
+      <br>Electron
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
+      <br>Flutter
+    </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
+      <br>Storybook
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
+      <br>Gatsby
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vuetify" alt="icon" width="65" height="65" />
+      <br>Vuetify
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
+      <br>Bootstrap
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="65" height="65" />
       <br>Tailwind
@@ -94,16 +119,115 @@
       <br>Sass
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=materialui" alt="icon" width="65" height="65" />
+      <br>Materialui
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h1 align="center">🌟 Back-End </h1>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
+      <br>Nest.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
+      <br>dotnet
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
+      <br>Laravel
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h1 align="center">🌟 Database </h1>
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=postgresql" alt="icon" width="65" height="65" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
+        <br>SQLite
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
+        <br>MongoDB
+      </td>
+     <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=dynamodb" alt="icon" width="65" height="65" />
+        <br>DynamoDB
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="65" height="65" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=Prisma" alt="icon" width="65" height="65" />
+        <br>Prisma
+      </td>
+  </tr>
+</table>
+
+<br/>
+
+<h1 align="center">🌟 Hosting/Cloud Services </h1>
+<table align="center">
+  <tr>
+    
+  </tr>
+</table>
+
+<h1 align="center">🌟 Other Tools </h1>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <br>Kuberbetes
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
       <br>REST API
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
+      <br>Vite
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
@@ -118,50 +242,37 @@
       <br>Prettier
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+      <br>Visual Studio Code
     </td>
-    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netifly" alt="icon" width="65" height="65" />
+      <br>Netifly
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="65" height="65" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=npm" alt="icon" width="65" height="65" />
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=yarn" alt="icon" width="65" height="65" />
+      <br>Yarn
+    </td>
   </tr>
 </table>
 
-# 💻 Back-End Frameworks & Libraries
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next" alt="icon" width="65" height="65" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nuxt" alt="icon" width="65" height="65" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />
-      <br>nestjs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
-      <br>dotnet
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
-      <br>Laravel
-    </td>
-  </tr>
-</table>
+
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
