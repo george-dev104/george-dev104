@@ -35,7 +35,7 @@
       <br>python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
      <td align="center" width="96">
