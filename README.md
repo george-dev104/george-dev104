@@ -46,13 +46,26 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
     </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
   </tr>
+</table>
+  
+# Frameworks & Libraries
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
   </tr>
+</table>
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
