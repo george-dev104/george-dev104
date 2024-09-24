@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20,%20👋%20I'm%20George%20Anderson.&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
 </div>
-# 
+
 
 <p align="left">I'm a hands-on Full-Stack Developer </p>
 
@@ -39,23 +39,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <br><br>PHP
     </td>
   </tr>
 </table>
@@ -66,6 +50,10 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="./assets/vue.svg" alt="icon" width="65" height="65" />
+      <br>Vue
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
@@ -96,7 +84,7 @@
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/warmice71/warmice71/assets/node.svg" alt="icon" width="65" height="65" />
+        <img src="./assets/node.svg" alt="icon" width="65" height="65" />
       <br>Node
     </td>
   </tr>
