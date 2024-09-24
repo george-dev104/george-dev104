@@ -1,13 +1,13 @@
-# Hello! 👋 I'm George Anderson! #
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20,%20👋%20I'm%20George%20Anderson.&font=Pacifico&center=true&width=750&height=120&color=58a6ff&vCenter=true&size=45%22">
+# 
+
 <p align="left">I'm a hands-on Full-Stack Developer </p>
 
-<div>
-  <br/>
-  - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications <br/>
-  - 👍 Proficient in Front-End Development with JavaScript, TypeScript<br/>
-  - ✨ Excellent in Back-End Development with JavaScript, TypeScript, PHP, C# and Python <br/>
-  - 🌱 Engaging user-friendly, responsive User Interface with CSS, Bootstrap and Tailwind CSS <br/>
-</div>
+
+- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications <br/>
+- 👍 Proficient in Front-End Development with JavaScript, TypeScript<br/>
+- ✨ Excellent in Back-End Development with JavaScript, TypeScript, PHP, C# and Python <br/>
+- 🌱 Engaging user-friendly, responsive User Interface with CSS, Bootstrap and Tailwind CSS <br/>
 
 # 🌟 Programming Languages
 <div style="display: flex; align-items: flex-start; align: center">
