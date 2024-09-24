@@ -1,5 +1,13 @@
-<h2 left="center">Hi there, I'm George Anderson! 👋</h2>
+# Hello! 👋 I'm George Anderson! #
 <p align="left">I'm a hands-on Full-Stack Developer </p>
+
+<div>
+  <br/>
+  - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications <br/>
+  - 👍 Proficient in Front-End Development with JavaScript, TypeScript, HTML, CSS <br/>
+  - ✨ Excellent in Back-End Development with JavaScript, TypeScript, PHP, C# and Python <br/>
+  - 
+</div>
 <!--
 **george-dev104/george-dev104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
