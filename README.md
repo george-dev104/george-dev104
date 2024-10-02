@@ -7,11 +7,10 @@
 
 <p align="left">I'm a hands-on Full-Stack Developer </p>
 
-
-- 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web and mobile applications <br/>
-- 👍 Proficient in Front-End Development with JavaScript, TypeScript<br/>
-- ✨ Excellent in Back-End Development with JavaScript, TypeScript, PHP, C# and Python <br/>
-- 🌱 Engaging user-friendly, responsive User Interface with CSS, Bootstrap and Tailwind CSS <br/>
+- ☀️ Been part of this industry for over 6 years <br/>
+- 👍 Skilled in Full Stack Development, covering Front-End, Back-End, and Database<br/>
+- ❤️ Love sharing ideas, learning from others and collaborating on projects<br/>
+- 🌱 Continuouly improving my skills and staying updated with the latest technologies<br/>
 
 
 <br/><br/><br/>
